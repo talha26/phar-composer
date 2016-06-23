@@ -1,0 +1,20 @@
+{
+    "name": "firstapp/phar-composer",
+    "description": "private tutor application",
+    "keywords": ["executable phar", "build process"],
+    "homepage": "https://github.com/talha26/phar-composer",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Talha Razzaq",
+            "email": "mh.talharazzaq@gmail.com"
+        }
+    ],
+    "require": {
+        "herrera-io/box": "~1.5",
+        "symfony/console": "~2.1",
+        "symfony/finder": "~2.1",
+        "symfony/process": "~2.1",
+        "knplabs/packagist-api": "~1.0"
+    }
+}
